@@ -22,8 +22,8 @@ Date | Topic | Speaker
  --- | --- | ---
 Jan. 25 | Intro to Whiteboarding |
 Feb. 01 | Stacks & Queues | Megan
-Feb. 08 | Recursion | Katrina
-Feb. 15 | Big O |
+Feb. 08 | Recursion | 
+Feb. 15 | Big O | Katrina & Andy
 Feb. 22 | Node & Linked Lists |
 Mar. 01 | Trees or Graph| Camille
 
@@ -51,3 +51,7 @@ Mar. 01 | Trees or Graph| Camille
 **Charlie**
 - [Intro to Whiteboarding slides](https://docs.google.com/presentation/d/17IqDn7PjCrfhmFTXGSySXvFCJCIjM-VvPmpfFk6CTz8/edit#slide=id.gc6f9e470d_0_0)
 - [Question & Solutions](https://github.com/bopes/dbc-algorithm-night/blob/master/6-15_intro_solutions.rb)
+
+**Andy and Katrina**
+- [Big O Slides with 3 Practice Problems](https://docs.google.com/presentation/d/1KsCcdjA9Ijj3c8ZpCeFZYkXQgG3Fnl1WQwlI__Pjqtg)
+- [Big O Gist - introduction, builtin methods](https://gist.github.com/abruckman/2d54844e164a4ae17f3082a4a12480b5)
